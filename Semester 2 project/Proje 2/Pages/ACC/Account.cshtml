@@ -1,0 +1,39 @@
+﻿@page
+@model Proje_term.Pages.ACC.AccountModel
+@{
+}
+<div>
+@if (User.Identity.IsAuthenticated)
+{
+    <table>
+        <tr>
+            <td>
+                Name
+            </td>
+            <td>
+                @User.Identity.Name
+            </td>
+
+        </tr>
+        @foreach (var t in User.Claims)
+        {
+            <tr>
+                <td>
+                    @t.Type
+                </td>
+                <td>
+                    @t.Value
+                </td>
+            </tr>
+        }
+    </table>
+    <a asp-page="Logout" class="btn btn-secondary">Logout</a>
+    
+
+}
+else
+{
+    <div> <h1>You are Not Logged in</h1></div>
+    <a asp-page="Login" class="btn btn-secondary">Login</a>
+}
+</div>
