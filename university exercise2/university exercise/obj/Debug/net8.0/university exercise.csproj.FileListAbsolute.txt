@@ -1,0 +1,18 @@
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\university exercise.exe
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\university exercise.deps.json
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\university exercise.runtimeconfig.json
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\university exercise.dll
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\university exercise.pdb
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.AssemblyInfoInputs.cache
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.AssemblyInfo.cs
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.dll
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\refint\university exercise.dll
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.pdb
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.genruntimeconfig.cache
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\ref\university exercise.dll
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\Employee.dll
+C:\Users\s\source\repos\university exercise\university exercise\bin\Debug\net8.0\Employee.pdb
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\university exercise.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\university exercise\university exercise\obj\Debug\net8.0\universi.9479A6CC.Up2Date
