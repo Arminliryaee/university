@@ -10,7 +10,7 @@
     public int Bime { get; }
 
     protected AbstractEmployee(string firstName, string lastName, string nationalCode,
-        int level, double baseSalary, double totalHours, double extraHours, int Bime)
+        int level, double baseSalary, double totalHours, double extraHours, int bime)
     {
         if (extraHours < 0 || extraHours > 40)
             throw new ArgumentException("Overtime limit has been reached!");
@@ -21,14 +21,14 @@
         BaseSalary = baseSalary;
         TotalHoursInMonth = totalHours;
         ExtraHours = extraHours;
-        Bime = Bime;
+        Bime = bime;
     }
 
     protected virtual double EmployeeRatio { get; }
 
     public override string ToString()
     {
-        return $"{FirstName} {LastName} ,{NationalCode} \n  Salary: ${CalculateSalary()}";
+        return $"{FirstName} {LastName} ,{NationalCode} \nSalary: ${CalculateSalary()}";
     }
 
     public virtual double CalculateSalary()

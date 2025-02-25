@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s\\source\\repos\\university exercise\\university exercise\\university exercise.csproj": {}
+    "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\university exercise\\university exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s\\source\\repos\\university exercise\\Employee\\Employee.csproj": {
+    "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s\\source\\repos\\university exercise\\Employee\\Employee.csproj",
+        "projectUniqueName": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\Employee\\Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "C:\\Users\\s\\source\\repos\\university exercise\\Employee\\Employee.csproj",
+        "projectPath": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s\\source\\repos\\university exercise\\Employee\\obj\\",
+        "outputPath": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\s\\source\\repos\\university exercise\\university exercise\\university exercise.csproj": {
+    "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\university exercise\\university exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s\\source\\repos\\university exercise\\university exercise\\university exercise.csproj",
+        "projectUniqueName": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\university exercise\\university exercise.csproj",
         "projectName": "university exercise",
-        "projectPath": "C:\\Users\\s\\source\\repos\\university exercise\\university exercise\\university exercise.csproj",
+        "projectPath": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\university exercise\\university exercise.csproj",
         "packagesPath": "C:\\Users\\s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s\\source\\repos\\university exercise\\university exercise\\obj\\",
+        "outputPath": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\university exercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\s\\source\\repos\\university exercise\\Employee\\Employee.csproj": {
-                "projectPath": "C:\\Users\\s\\source\\repos\\university exercise\\Employee\\Employee.csproj"
+              "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\Employee\\Employee.csproj": {
+                "projectPath": "C:\\Users\\s\\Source\\Repos\\university\\university exercise2\\Employee\\Employee.csproj"
               }
             }
           }

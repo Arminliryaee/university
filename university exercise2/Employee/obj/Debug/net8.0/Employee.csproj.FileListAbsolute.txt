@@ -9,3 +9,15 @@ C:\Users\s\source\repos\university exercise\Employee\obj\Debug\net8.0\Employee.d
 C:\Users\s\source\repos\university exercise\Employee\obj\Debug\net8.0\refint\Employee.dll
 C:\Users\s\source\repos\university exercise\Employee\obj\Debug\net8.0\Employee.pdb
 C:\Users\s\source\repos\university exercise\Employee\obj\Debug\net8.0\ref\Employee.dll
+C:\Users\s\Source\Repos\university\university exercise2\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\s\Source\Repos\university\university exercise2\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\s\Source\Repos\university\university exercise2\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.sourcelink.json
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\s\Source\Repos\university\university exercise2\Employee\obj\Debug\net8.0\ref\Employee.dll

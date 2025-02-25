@@ -16,3 +16,22 @@ C:\Users\s\source\repos\university exercise\without input\obj\Debug\net8.0\refin
 C:\Users\s\source\repos\university exercise\without input\obj\Debug\net8.0\without input.pdb
 C:\Users\s\source\repos\university exercise\without input\obj\Debug\net8.0\without input.genruntimeconfig.cache
 C:\Users\s\source\repos\university exercise\without input\obj\Debug\net8.0\ref\without input.dll
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\without input.exe
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\without input.deps.json
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\without input.runtimeconfig.json
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\without input.dll
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\without input.pdb
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\Employee.dll
+C:\Users\s\Source\Repos\university\university exercise2\without input\bin\Debug\net8.0\Employee.pdb
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.csproj.AssemblyReference.cache
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.AssemblyInfoInputs.cache
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.AssemblyInfo.cs
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.csproj.CoreCompileInputs.cache
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.sourcelink.json
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without .99D0EE52.Up2Date
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.dll
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\refint\without input.dll
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.pdb
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\without input.genruntimeconfig.cache
+C:\Users\s\Source\Repos\university\university exercise2\without input\obj\Debug\net8.0\ref\without input.dll
